@@ -42,3 +42,10 @@ ollama run llama3
 
 # 3. Launch the assistant
 python assistant_gradio.py
+
+
+ ## Future Enhancements
+- Add multilingual and Arabic support.
+- Implement session memory and chat history.
+- Introduce voice personality control (funny, calm, serious...).
+- Deploy the app as a desktop/mobile version.
