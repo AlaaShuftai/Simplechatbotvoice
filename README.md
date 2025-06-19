@@ -1,15 +1,16 @@
 # 🎙️ Smart Voice Assistant — Runs Locally, Responds Like a Human
 
 Welcome! This is a simple yet powerful voice assistant project that runs 100% locally on your machine — no paid APIs, no internet required, and no OpenAI key.
-![gradio-logo-png_seeklogo-515011](https://github.com/user-attachments/assets/c122637a-eff6-4992-9061-69ad651266c1)
 
 Just speak into your mic, and it will listen, understand, respond, and speak back to you 🔁🧠🔊
+
 
 ---
 
 ## 🧠 How It Works
 
 1. You speak through the Gradio interface
+   ![gradio-logo-png_seeklogo-515011](https://github.com/user-attachments/assets/c122637a-eff6-4992-9061-69ad651266c1)
 2. Your voice is transcribed into text using [Whisper](https://github.com/openai/whisper)
 3. The transcribed text is passed to [LLaMA 3](https://ollama.com) running locally via [Ollama](https://ollama.com)
 4. A smart response is generated using `LangChain`
