@@ -11,10 +11,12 @@ Just speak into your mic, and it will listen, understand, respond, and speak bac
 
 1. You speak through the Gradio interface
    ![gradio-logo-png_seeklogo-515011](https://github.com/user-attachments/assets/c122637a-eff6-4992-9061-69ad651266c1)
-2. Your voice is transcribed into text using [Whisper](https://github.com/openai/whisper)
+2. Your voice is transcribed into text using [Whisper](https://github.com/openai/whisper)                                                                                       ![ollama-logo-png_seeklogo-593420](https://github.com/user-attachments/assets/ef336bb4-cd04-48d0-9ff3-68c75de3677f)
 3. The transcribed text is passed to [LLaMA 3](https://ollama.com) running locally via [Ollama](https://ollama.com)
-4. A smart response is generated using `LangChain`
+4. A smart response is generated using `LangChain`                                                                                                                              ![langchain-logo-png_seeklogo-611654](https://github.com/user-attachments/assets/cc5f6370-7213-4965-a143-655df54b9630)
 5. The response is converted into audio using `gTTS` and played back in the browser
+
+![google-text-to-speech-logo-png_seeklogo-332738](https://github.com/user-attachments/assets/a34e3599-38bf-4b24-ac7b-272b8f29fae2)
 
 ---
 
