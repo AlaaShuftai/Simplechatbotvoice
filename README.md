@@ -1,6 +1,6 @@
 # 🎙️ Smart Voice Assistant — Runs Locally, Responds Like a Human
 
-Welcome! This is a simple yet powerful voice assistant project that runs 100% locally on your machine — no paid APIs, no internet required, and no OpenAI key.
+Welcome! This is a simple yet powerful voice assistant project that runs 100% locally on your machine — no paid APIs, no internet required, and no OpenAI key. http://127.0.0.1:7860
 
 Just speak into your mic, and it will listen, understand, respond, and speak back to you 🔁🧠🔊
 
