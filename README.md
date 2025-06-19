@@ -5,6 +5,8 @@ Welcome! This is a simple yet powerful voice assistant project that runs 100% lo
 Just speak into your mic, and it will listen, understand, respond, and speak back to you 🔁🧠🔊
 
 
+![ChatGPT Image Jun 19, 2025, 08_32_53 AM](https://github.com/user-attachments/assets/35ef6adb-9a44-4747-b964-1de3d1574188)
+
 ---
 
 ## 🧠 How It Works
